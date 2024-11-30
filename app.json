@@ -1,4 +1,9 @@
 {
   "name": "PSLD",
-  "displayName": "PSLD"
+  "displayName": "PSLD",
+  "extra": {
+    "eas": {
+      "projectId": "d10ae934-8a30-48bd-8ced-9f002aec1a5e"
+    }
+  }
 }
